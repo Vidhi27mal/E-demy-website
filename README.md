@@ -1,4 +1,11 @@
-# E-demy-website      
+# E-demy-website
+*Company*: codtecg IT solutions
+*Name* : Vidhi Malviya
+*Intern ID* : CTO4DH456
+*Domain* : Frontend Development
+*Duration* : 1 Month
+#about this project
+this is a e learning website like udemy its a responsive website
 
 
 
